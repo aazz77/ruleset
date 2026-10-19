@@ -118,7 +118,6 @@ payload:
   - +.artstation.com
   - +.artstationmedia.com
   - +.artstorm.com
-  - +.asobostudio.com
   - +.att.tv
   - +.atttvnow.com
   - +.attwatchtv.com
@@ -505,7 +504,6 @@ payload:
   - +.fireside.fm
   - +.firesidegatherings.com
   - +.fitgirl-repacks.site
-  - +.flightsimulator.com
   - +.flipnotestudio.com
   - +.forgecdn.net
   - +.formula1.com
@@ -1189,6 +1187,7 @@ payload:
   - +.pscdn.co
   - +.ptzwx.com
   - +.pubg.com
+  - +.pv-cdn.net
   - +.pvp.net
   - +.pvp.tv
   - +.pvzgw2.com
@@ -1920,6 +1919,7 @@ payload:
   - d2vjef5jvl6bfs.cloudfront.net
   - d2xmjdvx03ij56.cloudfront.net
   - d31dormfno8pk4.cloudfront.net
+  - d348twzf7a8p5.cloudfront.net
   - d36nr0u3xmc4mm.cloudfront.net
   - d3aqoihi2n8ty8.cloudfront.net
   - d3c27h4odz752x.cloudfront.net
@@ -1934,6 +1934,7 @@ payload:
   - dcb0z5ovq92mz.cloudfront.net
   - ddacn6pr5v0tl.cloudfront.net
   - ddpjwstwtpszg.cloudfront.net
+  - devforum-uploads.s3.dualstack.us-east-2.amazonaws.com
   - dfp6rglgjqszk.cloudfront.net
   - dgeft87wbj63p.cloudfront.net
   - disney.my.sentry.io
@@ -1942,6 +1943,7 @@ payload:
   - dlmobilegarena-a.akamaihd.net
   - dmqdd6hw24ucf.cloudfront.net
   - downloaddispatch.itunes.apple.com
+  - doy2mn9upadnk.cloudfront.net
   - dqd0jw5gvbchn.cloudfront.net
   - dqrpb9wgowsf5.cloudfront.net
   - ds-linear-abematv.akamaized.net
@@ -1958,7 +1960,6 @@ payload:
   - espndotcom.tt.omtrdc.net
   - f3b7q2p3.ssl.hwcdn.net
   - favoritescc-hamivideo2.cdn.hinet.net
-  - flightsimulator.azureedge.net
   - fpinit.itunes.apple.com
   - gamedownloads-rockstargames-com.akamaized.net
   - gamer-cds.cdn.hinet.net

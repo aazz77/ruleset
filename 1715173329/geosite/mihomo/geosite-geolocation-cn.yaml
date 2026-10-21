@@ -1092,6 +1092,7 @@ payload:
   - +.chaindd.com
   - +.chainedbox.com
   - +.chainnode.com
+  - +.chaip.me
   - +.changanfunds.com
   - +.changba.com
   - +.changdunovel.com
@@ -1112,6 +1113,7 @@ payload:
   - +.chdi.com.cn
   - +.che168.com
   - +.cheaa.com
+  - +.check-host.cn
   - +.checkzeit.com
   - +.cheetahfun.com
   - +.chei.com.cn
@@ -1234,6 +1236,7 @@ payload:
   - +.cih-index.com
   - +.cilisouou.com
   - +.cindasc.com
+  - +.cip.cc
   - +.cisco.cn
   - +.cisco.com.cn
   - +.citibank.com.cn
@@ -1504,6 +1507,7 @@ payload:
   - +.cyol.net
   - +.cyts.com
   - +.cyzone.cn
+  - +.cz88.net
   - +.cztv.com
   - +.cztvcdn.com
   - +.cztvcloud.com
@@ -2167,8 +2171,10 @@ payload:
   - +.gei6.com
   - +.geilicdn.com
   - +.gelaiyun.net
+  - +.geoip.cn
   - +.geossl.cn
   - +.gepush.com
+  - +.getmyip.top
   - +.getui.cn
   - +.getui.com
   - +.getui.net
@@ -2383,6 +2389,7 @@ payload:
   - +.haofenshu.com
   - +.haohaodoc.com
   - +.haohaowan.net
+  - +.haoip.cn
   - +.haojieyun.com
   - +.haokan.com
   - +.haolietou.com
@@ -2705,6 +2712,8 @@ payload:
   - +.ifanrusercontent.com
   - +.ifanrx.com
   - +.ifastps.com.cn
+  - +.ifcfg.cn
+  - +.ifconfig.cc
   - +.ifdian.net
   - +.ifeng.com
   - +.ifengimg.com
@@ -2785,15 +2794,35 @@ payload:
   - +.intsig.com
   - +.intsig.net
   - +.iotronic.tech
+  - +.ip-api.cn
+  - +.ip-api.com.cn
+  - +.ip-check.cn
+  - +.ip.cn
+  - +.ip.com.cn
+  - +.ip.plus
+  - +.ip00.cn
+  - +.ip111.cn
+  - +.ip111.com
+  - +.ip120.cn
+  - +.ip123.top
   - +.ip138.com
+  - +.ip77.net
+  - +.ip9.com.cn
+  - +.ip99.com
+  - +.ipaddress.com.cn
   - +.ipanda.cn
   - +.ipanda.com
   - +.ipanda.com.cn
   - +.ipanda.net
+  - +.ipchacha.cn
   - +.ipchaxun.com
+  - +.ipchaxun.com.cn
   - +.ipchaxun.net
+  - +.ipchk.cn
   - +.iphone-8.com.cn
   - +.ipify.cn
+  - +.ipip.top
+  - +.ipjiance.com
   - +.iplark.com
   - +.iplaysoft.com
   - +.ipod.com.cn
@@ -2801,9 +2830,12 @@ payload:
   - +.ipplus360.com
   - +.iprdp.net
   - +.iprintworks.cn
+  - +.ipsearch.com.cn
+  - +.ipsee.cn
   - +.ipshu.com
   - +.ipshudi.com
   - +.ipssh.net
+  - +.iptest.cn
   - +.ipw.cn
   - +.iqilu.com
   - +.iranshao.com
@@ -3770,6 +3802,7 @@ payload:
   - +.mydrivers.com
   - +.mygolbs.com
   - +.myhsw.cn
+  - +.myipinfo.cn
   - +.mykuaidi.com
   - +.mypaas.com
   - +.mypaas.com.cn
@@ -4050,6 +4083,7 @@ payload:
   - +.pingcap.cn
   - +.pingcap.com
   - +.pingcode.com
+  - +.pingip.cn
   - +.pingplusplus.com
   - +.pingwest.com
   - +.pingxx.com
@@ -4408,6 +4442,7 @@ payload:
   - +.seeed.cn
   - +.seeed.com.cn
   - +.seeedstudio.com.cn
+  - +.seeip.cn
   - +.seewo.com
   - +.segmentfault.com
   - +.segwayrobotics.com
@@ -4712,6 +4747,8 @@ payload:
   - +.sznews.com
   - +.szpgm.com
   - +.szse.cn
+  - +.szu.app
+  - +.szu.moe
   - +.szzfgjj.com
   - +.t00ls.cc
   - +.t00ls.net
@@ -4879,6 +4916,7 @@ payload:
   - +.tobosu.com
   - +.todesk.cn
   - +.todesk.com
+  - +.todetect.cn
   - +.tokyotrial.cn
   - +.tol.vip
   - +.tom.com
@@ -5206,6 +5244,8 @@ payload:
   - +.wf.pub
   - +.wfdata.club
   - +.wggames.cn
+  - +.whatip.cn
+  - +.whatismyip.com.cn
   - +.whccb.com
   - +.whee.com
   - +.whhhealth.com
@@ -6209,9 +6249,16 @@ payload:
   - init.itunes.apple.com
   - iosapps.itunes.apple.com
   - iosapps.itunes.g.aaplimg.com
+  - ip.3322.net
+  - ip.gymcalc.cn
+  - ip.kutool.com
+  - ip.plyz.net
+  - ip.taobao.com
+  - ip.webmasterhome.cn
   - ipcdn.apple.com
   - iphone-ld.apple.com
   - iphone-ld.origin-apple.com.akadns.net
+  - ipv6test.wcode.net
   - is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net
   - is1-ssl.mzstatic.com
   - is1.mzstatic.com
@@ -6270,6 +6317,7 @@ payload:
   - mesu-cdn.apple.com.akadns.net
   - mesu-china.apple.com.akadns.net
   - mesu.apple.com
+  - mip.chinaz.com
   - misc-assets.itunes.apple.com
   - ml.cdn-apple.com
   - moocs.unipus.cn
@@ -6492,6 +6540,7 @@ payload:
   - updates.cdn-apple.com
   - uplaypc-s-ubisoft.cdn.ubionline.com.cn
   - upp.itunes.apple.com
+  - v6test.ipgg.cn
   - valid.apple.com
   - valid.origin-apple.com.akadns.net
   - vlportal.download.prss.microsoft.com

@@ -5,8 +5,11 @@ payload:
   - +.bankcomm.cn
   - +.bankcomm.com
   - +.bankofbeijing.com.cn
+  - +.bocd.com.cn
   - +.bosc.cn
   - +.bsb.com.cn
+  - +.cdrcb.com
+  - +.cdrcbank.com
   - +.cebbank.com
   - +.cgbchina.com.cn
   - +.chinapay.com
@@ -25,6 +28,7 @@ payload:
   - +.hsbcinsurance.com.cn
   - +.hsbcqh.com.cn
   - +.hxb.com.cn
+  - +.ibangbank.com
   - +.kcbebank.com
   - +.kshbank.cn
   - +.ms-bank.cn

@@ -404,6 +404,7 @@ payload:
   - +.a2z.org.cn
   - +.a9vg.com
   - +.aadrm.cn
+  - +.aaej.cn
   - +.aaic.com.cn
   - +.aamgame.com
   - +.aamgame.mobi
@@ -890,6 +891,7 @@ payload:
   - +.bibaodao.com
   - +.bidchance.com
   - +.biddingx.com
+  - +.bigdatacq.com
   - +.bigmodel.cn
   - +.bihu.com
   - +.biji.com
@@ -932,6 +934,7 @@ payload:
   - +.bmac.com.cn
   - +.bobbns.com
   - +.bobo.com
+  - +.bocd.com.cn
   - +.boce.com
   - +.bochaai.com
   - +.boe.com
@@ -1048,6 +1051,8 @@ payload:
   - +.cdndo.com
   - +.cdnmama.com
   - +.cdnmg.com
+  - +.cdrcb.com
+  - +.cdrcbank.com
   - +.cdut.top
   - +.ce.cn
   - +.ceair.com
@@ -1251,6 +1256,7 @@ payload:
   - +.ckxx.net
   - +.clangcn.com
   - +.clawhub-mirror.com
+  - +.cldisk.com
   - +.cleargrass.com
   - +.clewm.net
   - +.cli.im
@@ -1391,13 +1397,17 @@ payload:
   - +.cqcb.com
   - +.cqccn.com
   - +.cqctyiptv.cn
+  - +.cqdcg.com
+  - +.cqge.com.cn
   - +.cqhlw.cn
   - +.cqliving.com
   - +.cqn.com.cn
   - +.cqnews.net
+  - +.cqsdlys.cn
   - +.cqsjb.com
   - +.cqtk.com.cn
   - +.cqvip.com
+  - +.cqyyxc.com
   - +.cr-cts.com
   - +.cr173.com
   - +.crash2.zhihu.com
@@ -1626,6 +1636,7 @@ payload:
   - +.didachuxing.com
   - +.didapinche.com
   - +.digicert.cn
+  - +.digitalcnzz.com
   - +.digitaling.com
   - +.diiing.cn
   - +.dili360.com
@@ -1800,6 +1811,7 @@ payload:
   - +.e0n.cn
   - +.eagsen.com
   - +.easec.com.cn
+  - +.easemob.com
   - +.easesale.com
   - +.easiu.com
   - +.eastday.com
@@ -2160,7 +2172,6 @@ payload:
   - +.gdjdxy.com
   - +.gdliontech.com
   - +.gdrc.com
-  - +.gdtimg.com
   - +.geekbang.org
   - +.geekpark.net
   - +.geektool.top
@@ -2275,6 +2286,7 @@ payload:
   - +.gpall.net
   - +.gpsonextra.net
   - +.gputechconf.cn
+  - +.gpzshq.cn
   - +.gracg.com
   - +.greatwallwine.com.cn
   - +.gree.cn
@@ -2670,6 +2682,7 @@ payload:
   - +.i8tq.com
   - +.iachina.cn
   - +.iask.com
+  - +.ibangbank.com
   - +.ibaotu.com
   - +.ibcet.org
   - +.ibidian.com
@@ -2681,7 +2694,6 @@ payload:
   - +.iciba.com
   - +.icloud-apple.cn
   - +.icloud-content.com.cn
-  - +.icloud.cn
   - +.icloud.com.cn
   - +.icloud.net.cn
   - +.icloudapple.cn
@@ -2849,6 +2861,8 @@ payload:
   - +.ishijue.com
   - +.ishumei.com
   - +.ishuqi.com
+  - +.isigning.cn
+  - +.isigning.com
   - +.istoreos.com
   - +.istv.cn
   - +.isxtv.com
@@ -3713,8 +3727,6 @@ payload:
   - +.modelers.cn
   - +.modex.com.cn
   - +.moedu.com
-  - +.moegirl.org
-  - +.moegirl.org.cn
   - +.moer.cn
   - +.mofang.com
   - +.mofazhu.com
@@ -3829,6 +3841,7 @@ payload:
   - +.nalrer.cn
   - +.namiso.com
   - +.nanhaicorp.com
+  - +.nanocorechip.com
   - +.nanyuenews.com
   - +.narwal.com
   - +.narwaltech.com
@@ -5507,6 +5520,7 @@ payload:
   - +.xuexi365.com.cn
   - +.xuexi365.net
   - +.xuexicha.com
+  - +.xuexitong.com
   - +.xundupdf.com
   - +.xunfei.cn
   - +.xunfeixxj.com
@@ -6008,6 +6022,7 @@ payload:
   - app-measurement-cn.com
   - app-measurement.com
   - app-site-association.cdn-apple.com
+  - app.moegirl.org.cn
   - appldnld.apple.com
   - appldnld.g.aaplimg.com
   - appleid.cdn-apple.com
@@ -6494,6 +6509,7 @@ payload:
   - status.alibabacloud.com
   - stocks-sparkline-lb.apple.com.akadns.net
   - stocks-sparkline.apple.com
+  - storage.moegirl.org.cn
   - store.apple.com
   - store.apple.com.edgekey.net
   - store.apple.com.edgekey.net.globalredir.akadns.net

@@ -2241,6 +2241,7 @@ payload:
   - +.dashlytrack.app
   - +.dashwood360.com
   - +.data.com
+  - +.data.microsoft.com
   - +.datacloudmy.com
   - +.dataframeworks.com
   - +.dataliberation.org
@@ -4161,6 +4162,7 @@ payload:
   - +.impermium.com
   - +.imstagram.com
   - +.imtagram.com
+  - +.in.applicationinsights.azure.com
   - +.inbox.ru
   - +.incentivetravelgifts.com
   - +.indiaipad.com
@@ -6566,6 +6568,7 @@ payload:
   - +.tele2.ru
   - +.telega.info
   - +.telega.me
+  - +.telemetry.microsoft.com
   - +.telerik.com
   - +.tellmewhygame.com
   - +.tenbin.ai
@@ -7796,6 +7799,9 @@ payload:
   - appleworldwidedeveloper.sc.omtrdc.net
   - apps.mzstatic.com
   - apps5.oingo.com
+  - appsgenaiserver-pa.clients.google.com
+  - appsgenaiserver-pa.clients6.google.com
+  - appsgenaiserver-pa.googleapis.com
   - apptrailers.itunes.apple.com
   - avail.googleflights.net
   - az764295.vo.msecnd.net
@@ -7912,6 +7918,8 @@ payload:
   - d2anahhhmp1ffz.cloudfront.net
   - daily-cloudcode-pa.googleapis.com
   - dartsearch-cn.net
+  - dc.applicationinsights.azure.com
+  - dc.services.visualstudio.com
   - dc1-cert.ksn.kaspersky-labs.com
   - dc1-file.ksn.kaspersky-labs.com
   - dc1-pp.ksn.kaspersky-labs.com
@@ -8123,6 +8131,7 @@ payload:
   - lex.download.prss.microsoft.com
   - lexuat.download.prss.microsoft.com
   - lgelectronics.122.2o7.net
+  - live.applicationinsights.azure.com
   - lm.licenses.adobe.com
   - lmlicenses.wip4.adobe.com
   - location.microsoft.com
@@ -8282,6 +8291,7 @@ payload:
   - rink.hockeyapp.net
   - rs.mail.ru
   - rsm.download.prss.microsoft.com
+  - rt.services.visualstudio.com
   - s.mzstatic.com
   - s00.upd.kaspersky.com
   - s01.upd.kaspersky.com

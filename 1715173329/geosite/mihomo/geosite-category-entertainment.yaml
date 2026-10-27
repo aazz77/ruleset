@@ -979,6 +979,7 @@ payload:
   - +.neoforged.net
   - +.netflix.ca
   - +.netflix.com
+  - +.netflix.com.edgesuite.net
   - +.netflix.net
   - +.netflixdnstest0.com
   - +.netflixdnstest1.com
@@ -1362,6 +1363,7 @@ payload:
   - +.spoti.fi
   - +.spotify-everywhere.com
   - +.spotify.com
+  - +.spotify.com.edgesuite.net
   - +.spotify.design
   - +.spotify.link
   - +.spotifycdn.com
@@ -2024,7 +2026,6 @@ payload:
   - mvod.itunes.apple.com
   - myapp.itunes.apple.com
   - nbbb1bb7.pmhcjk.com
-  - netflix.com.edgesuite.net
   - notify.ppy.sh
   - np-edge.itunes.apple.com
   - ntdfreemobile-tgc.cdn.hinet.net
@@ -2071,7 +2072,6 @@ payload:
   - sp.itunes.apple.com
   - spectator.ppy.sh
   - speedysub.music.apple.com
-  - spotify.com.edgesuite.net
   - spotify.map.fastly.net
   - spotify.map.fastlylb.net
   - ssl-lvlt.cdn.ea.com

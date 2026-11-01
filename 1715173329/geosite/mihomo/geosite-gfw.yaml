@@ -229,6 +229,7 @@ payload:
   - +.api.recaptcha.net
   - +.api.shuaiapi.com
   - +.api.steampowered.com
+  - +.api.themoviedb.org
   - +.apiary.io
   - +.apigee.com
   - +.apk.support
@@ -3725,6 +3726,7 @@ payload:
   - +.torproject.org
   - +.torrentgalaxy.to
   - +.torrentkitty.tv
+  - +.torrentleech.org
   - +.torrentprivacy.com
   - +.torrentproject.se
   - +.torrenty.org
@@ -4350,6 +4352,7 @@ payload:
   - +.youtubegaming.com
   - +.youtubekids.com
   - +.youversion.com
+  - +.youversionapi.com
   - +.youwin.com
   - +.youxu.info
   - +.yt.be

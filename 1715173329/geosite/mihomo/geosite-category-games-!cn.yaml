@@ -286,6 +286,9 @@ payload:
   - +.leaguesharp.info
   - +.leaguoflegends.com
   - +.learnwithleague.com
+  - +.limbuscompany.global
+  - +.limbuscompanyapi.com
+  - +.limbuscompanycdn.org
   - +.log-upload-os.hoyoverse.com
   - +.lol-europe.com
   - +.lolclub.org
@@ -469,6 +472,7 @@ payload:
   - +.priconne-redive.jp
   - +.prismlauncher.org
   - +.projectapex.com
+  - +.projectmoon.studio
   - +.protondb.com
   - +.pubg.com
   - +.pvp.net
@@ -563,6 +567,7 @@ payload:
   - +.simcity.com
   - +.skate2.com
   - +.sketchfab.com
+  - +.skinswap.com
   - +.skylanders.com
   - +.sledgehammergames.com
   - +.snk-corp.co.jp

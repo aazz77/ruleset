@@ -146,6 +146,7 @@ payload:
   - +.bluecloudprod.com
   - +.canon.cn
   - +.canon.com.cn
+  - +.captive.apple.com
   - +.cegid-cloud.cn
   - +.chinacloud-mobile.cn
   - +.chinacloudapi.cn
@@ -439,6 +440,7 @@ payload:
   - communities.apple.com
   - configuration.apple.com
   - configuration.apple.com.akadns.net
+  - configuration.ls.apple.com
   - connectivitycheck.gstatic.com
   - crashlyticsreports-pa.googleapis.com
   - crl-lb.apple.com.akadns.net
@@ -643,10 +645,12 @@ payload:
   - msdprod-ad.download.prss.microsoft.com
   - msproduct.download.prss.microsoft.com
   - music.apple.com
+  - musicstatus.itunes.apple.com
   - musicstatus.music.apple.com
   - mvod.itunes.apple.com
   - myapp.itunes.apple.com
   - myvs.download.prss.microsoft.com
+  - mzstorekit.itunes.apple.com
   - np-edge.itunes.apple.com
   - o.pki.goog
   - ocsp.apple.com

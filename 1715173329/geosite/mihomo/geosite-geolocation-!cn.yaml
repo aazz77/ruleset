@@ -29,6 +29,7 @@ payload:
   - +.guge
   - +.hangout
   - +.hbo
+  - +.hkt
   - +.hotmail
   - +.hsbc
   - +.ibm
@@ -46,6 +47,7 @@ payload:
   - +.office
   - +.oracle
   - +.panasonic
+  - +.pccw
   - +.playstation
   - +.porn
   - +.samsung
@@ -4551,6 +4553,7 @@ payload:
   - +.bravoteens.com
   - +.bravotube.net
   - +.bravotube.tv
+  - +.bravotv.com
   - +.brawlstars.com
   - +.brawlstarsgame.com
   - +.brazilpartneruniversity.com
@@ -5768,6 +5771,7 @@ payload:
   - +.cn.shafaqna.com
   - +.cna.com.tw
   - +.cnbc.com
+  - +.cnbccouncils.com
   - +.cnbcfm.com
   - +.cnbeta.com
   - +.cnbeta.com.tw
@@ -8649,6 +8653,7 @@ payload:
   - +.fantom.foundation
   - +.fantom.network
   - +.fantv.hk
+  - +.fanza.jp
   - +.fap-xxx.com
   - +.fap18.net
   - +.fap666.com
@@ -9095,6 +9100,7 @@ payload:
   - +.fnmt.es
   - +.foampositeshoes.com
   - +.fochk.org
+  - +.focusfeatures.com
   - +.focustaiwan.tw
   - +.fofg.org
   - +.foftolia.com
@@ -10874,6 +10880,7 @@ payload:
   - +.hayabusa.media
   - +.hayday.com
   - +.haydaygame.com
+  - +.hayu.com
   - +.hayya.ae
   - +.hbabit.com
   - +.hbfile.net
@@ -12238,6 +12245,7 @@ payload:
   - +.ilife.wang
   - +.illawarramercury.com.au
   - +.illgames.jp
+  - +.illumination.com
   - +.illusion111.com
   - +.illusionas.com
   - +.illusionchn.com
@@ -15984,7 +15992,6 @@ payload:
   - +.msk.kitazawa.me
   - +.msn.com
   - +.msn.net
-  - +.msnbc.com
   - +.msnewskids.com
   - +.msnewskids.net
   - +.msnewskids.org
@@ -16384,8 +16391,11 @@ payload:
   - +.nbcolympics.com
   - +.nbcsports.com
   - +.nbcudigitaladops.com
+  - +.nbcumv.com
   - +.nbcuni.com
+  - +.nbcunicareers.com
   - +.nbcuniversal.com
+  - +.nbcuniversalprivacy.com
   - +.nbdh15.buzz
   - +.nbtvpn.com
   - +.nbys.tv
@@ -19599,6 +19609,7 @@ payload:
   - +.renyurenquan.org
   - +.renzhe.cloud
   - +.repe21.com
+  - +.replit.com
   - +.repo.new
   - +.report-megafon.ru
   - +.repotama.com
@@ -22054,6 +22065,7 @@ payload:
   - +.telegramdownload.com
   - +.telekom.com
   - +.telekom.de
+  - +.telemundo.com
   - +.telerik.com
   - +.telesco.pe
   - +.telesec.de
@@ -22645,6 +22657,7 @@ payload:
   - +.torrentproject.se
   - +.torrenty.org
   - +.torrindex.net
+  - +.tortoisegit.org
   - +.tortoisesvn.net
   - +.torvpn.com
   - +.tosh.comedycentral.com
@@ -23136,6 +23149,7 @@ payload:
   - +.udnfunlife.com
   - +.udomain.hk
   - +.udtrucksmeena.com
+  - +.udxfpp.com
   - +.ueberamazon.de
   - +.uflash.tv
   - +.uforadio.com.tw
@@ -23213,11 +23227,18 @@ payload:
   - +.united.ru
   - +.unity.com
   - +.unity3d.com
+  - +.universalbeijingresort.com
+  - +.universalhorrorunleashed.com
+  - +.universalkidsresort.com
   - +.universalorlando.com
+  - +.universalpictures.co.uk
   - +.universalpictures.com
+  - +.universalpicturesathome.com
   - +.universalpicturesinternational.com
+  - +.universalproductsexperiences.com
   - +.universalscalablefirmware.org
   - +.universalstudioshollywood.com
+  - +.universalukproject.co.uk
   - +.universitypressscholarship.com
   - +.unknownspace.org
   - +.unkoscene.com
@@ -23244,6 +23265,7 @@ payload:
   - +.upfrontcfd.com
   - +.upfrontfea.com
   - +.upghsbc.com
+  - +.uphe.com
   - +.upholdjustice.org
   - +.upjav.cc
   - +.uplay-istrip.com
@@ -23293,6 +23315,7 @@ payload:
   - +.usersdrive.com
   - +.usertrust.com
   - +.usfk.mil
+  - +.usj.co.jp
   - +.usma.edu
   - +.usno.navy.mil
   - +.usocial.pro

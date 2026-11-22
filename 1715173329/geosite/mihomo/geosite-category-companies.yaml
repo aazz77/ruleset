@@ -20,6 +20,7 @@ payload:
   - +.google
   - +.guge
   - +.hangout
+  - +.hkt
   - +.hotmail
   - +.ibm
   - +.imdb
@@ -31,6 +32,7 @@ payload:
   - +.office
   - +.oracle
   - +.panasonic
+  - +.pccw
   - +.playstation
   - +.samsung
   - +.skype
